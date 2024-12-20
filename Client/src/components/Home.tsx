@@ -1,7 +1,7 @@
 import React, { FC, useState, useEffect } from "react";
 import "../assets/stylesheets/updatedHome.css";
 import LogoN from "../assets/images/LogoN.png";
-import text from "../assets/images/text.png";
+import text from "../assets/images/EcoCheffLogo.png";
 import LoginModal from "./LoginModal";
 import RegisterModal from "./RegisterModal";
 import RecipeModal from "./RecipeModal";

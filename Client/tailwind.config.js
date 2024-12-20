@@ -80,10 +80,10 @@ export default {
       },
       dropShadow: {
         custom: [
-          "2px 2px 0 #000", // bottom-right shadow
-          "-2px -2px 0 #000", // top-left shadow
-          "2px -2px 0 #000", // top-right shadow
-          "-2px 2px 0 #000", // bottom-left shadow
+          "1px 1px 0 #1b5e20", // bottom-right shadow (darker green)
+          "-1px -1px 0 #1b5e20", // top-left shadow
+          "1px -1px 0 #1b5e20", // top-right shadow
+          "-1px 1px 0 #1b5e20", // bottom-left shadow
         ],
       },
     },
